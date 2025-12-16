@@ -1,16 +1,12 @@
-## Hi there 👋
+                                                    - ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ - 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans&pause=1000&color=710000&center=true&width=435&lines=Fresh+meat..+to+devour.." alt="Typing SVG />
+</a>
+</p>
+<p align="center">
+<img src="https://i.pinimg.com/736x/18/ac/ad/18acadb6fdf7c30fbbd2ae3014592199.jpg"/>
+</p>
+<p align="center"
 
-<!--
-**HorrorMoonzy/HorrorMoonzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=moonzydustt&color=680300&label=☆+Sweet+lil'+runts..+)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
